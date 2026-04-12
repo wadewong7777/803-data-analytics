@@ -1,0 +1,12 @@
+Week 1 Activity 1 Analysis
+
+Rows: 3
+Columns: category, sales_sum, sales_mean, sales_count, quantity_sum, quantity_mean
+
+Sales by category:
+category  sales_sum  sales_mean  sales_count
+       A      18010  545.757576           33
+       B      22154  615.388889           36
+       C      18213  587.516129           31
+
+Highest total sales: Category B with 22,154
