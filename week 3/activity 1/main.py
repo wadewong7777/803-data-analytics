@@ -3,9 +3,6 @@ from pathlib import Path
 import matplotlib
 import pandas as pd
 
-
-# Use a non-interactive backend so the script can run in terminal/WSL
-# environments without opening a GUI window.
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
